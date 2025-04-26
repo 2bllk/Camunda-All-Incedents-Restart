@@ -1,9 +1,13 @@
 // ==UserScript==
 // @name         Camunda All Incedents Restart
-// @namespace    http://tampermonkey.net/
-// @version      2025-04-03/08
-// @description  Добавляет кнопку для массовой перезагрузки всех инцидентов.
-// @author       Me
+// @namespace    https://github.com/2bllk/Camunda-All-Incedents-Restart
+// @version      1.0.0
+// @description	 Batch restart incedents in Camunda Cockpit
+// @description:ru  Добавляет кнопку для массовой перезагрузки инцидентов в Camunda Cockpit
+// @author       2bllk
+// @updateURL	 https://github.com/2bllk/Camunda-All-Incedents-Restart/raw/refs/heads/master/Camunda-All-Incedents-Restart.user.js
+// @downloadURL	 https://github.com/2bllk/Camunda-All-Incedents-Restart/raw/refs/heads/master/Camunda-All-Incedents-Restart.user.js
+
 // @match        https://*/app/cockpit/default/*
 // @match        https://*/app/cockpit/default/*
 
